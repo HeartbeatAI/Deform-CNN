@@ -1,0 +1,13 @@
+name: ECG_Net_wDCN_1fcv2_dcn-3-cvn-3
+arch: DeformCNN
+deform: True
+modulation: True
+min_deform_layer: 3
+epochs: 15
+optimizer: SGD
+lr: 0.0005
+momentum: 0.5
+weight_decay: 0.0001
+nesterov: False
+dcn: 3
+cvn: 3

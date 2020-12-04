@@ -103,11 +103,7 @@ def Add_Noise():
     model.cuda()
     model.eval()
 
-    # ecg = scipy.io.loadmat(record_path)
-    ###########################INFERENCE PART################################
 
-    ## Please process the ecg data, and output the classification result.
-    ## result should be an integer number in [1, 9].
     with open('./AddNOISE/DCN_'+str(args.dcn)+str(args.cvn)+'_result.csv', 'w') as csvfile:
         writer = csv.writer(csvfile)
         # column name

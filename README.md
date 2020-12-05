@@ -30,5 +30,8 @@ If you need to adjust some parameters, you can use argument. For example:
 ```python dcnv2_ecg_train.py --epochs 20 --optimizer Adam```
 For more arguments, please refer to `dcnv2_ecg_train.py`.
 
+# Additional Notes
+Please contact us by [creating an issue](https://github.com/HeartbeatAI/Deform-CNN/issues/new/choose) if you would like to commercialize this project.
+
 Reference:
-https://github.com/4uiiurz1/pytorch-deform-conv-v2
+https://github.com/4uiiurz1/pytorch-deform-conv-v2 (MIT License)

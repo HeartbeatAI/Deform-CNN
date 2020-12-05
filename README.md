@@ -31,7 +31,7 @@ If you need to adjust some parameters, you can use argument. For example:
 For more arguments, please refer to `dcnv2_ecg_train.py`.
 
 # Additional Notes
-Please contact us by [creating an issue](https://github.com/HeartbeatAI/Deform-CNN/issues/new/choose) if you would like to commercialize this project.
+Please contact us by [creating an issue](https://github.com/HeartbeatAI/Deform-CNN/issues/new/choose) if you would like to use this project for commercial purposes.
 
 Reference:
 https://github.com/4uiiurz1/pytorch-deform-conv-v2 (MIT License)

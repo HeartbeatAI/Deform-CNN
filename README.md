@@ -35,17 +35,17 @@ Please contact us by [creating an issue](https://github.com/HeartbeatAI/Deform-C
 
 # Cite this
 
-@article{Qin_2021,
-	doi = {10.1109/tim.2021.3073707},
-	url = {https://doi.org/10.1109%2Ftim.2021.3073707},
-	year = 2021,
-	publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
-	volume = {70},
-	pages = {1--13},
-	author = {Lang Qin and Yuntao Xie and Xinwen Liu and Xiangchi Yuan and Huan Wang},
-	title = {An End-to-End 12-Leading Electrocardiogram Diagnosis System Based on Deformable Convolutional Neural Network With Good Antinoise Ability},
-	journal = {{IEEE} Transactions on Instrumentation and Measurement}
-} 
+	@article{Qin_2021,
+		doi = {10.1109/tim.2021.3073707},
+		url = {https://doi.org/10.1109%2Ftim.2021.3073707},
+		year = 2021,
+		publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+		volume = {70},
+		pages = {1--13},
+		author = {Lang Qin and Yuntao Xie and Xinwen Liu and Xiangchi Yuan and Huan Wang},
+		title = {An End-to-End 12-Leading Electrocardiogram Diagnosis System Based on Deformable Convolutional Neural Network With Good Antinoise Ability},
+		journal = {{IEEE} Transactions on Instrumentation and Measurement}
+	} 
 
 Reference:
 https://github.com/4uiiurz1/pytorch-deform-conv-v2 (MIT License)

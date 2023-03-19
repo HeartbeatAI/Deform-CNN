@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: PyTorch
+authors:
+  - family-names: "Xie"
+    given-names: "Yuntao"
+    orcid: "https://orcid.org/0000-0002-8182-0929"
+  - family-names: "Qin"
+    given-names: "Lang"
+    orcid: "https://orcid.org/0000-0003-3698-9132"
+url: https://github.com/HeartbeatAI/Deform-CNN
+preferred-citation:
+  type: article
+  title: "An End-to-End 12-Leading Electrocardiogram Diagnosis System Based on Deformable Convolutional Neural Network With Good Antinoise Ability"
+  authors:
+    - family-names: "Qin"
+      given-names: "Lang"
+      orcid: "https://orcid.org/0000-0003-3698-9132"
+    - family-names: "Xie"
+      given-names: "Yuntao"
+      orcid: "https://orcid.org/0000-0002-8182-0929"
+    - family-names: "Liu"
+      given-names: "Xinwen"
+      orcid: "https://orcid.org/0000-0001-5830-6027"
+    - family-names: "Yuan"
+      given-names: "Xiangchi"
+      orcid: "https://orcid.org/0000-0001-5270-4817"
+    - family-names: "Wang"
+      given-names: "Huan"
+      orcid: "https://orcid.org/0000-0002-1403-5314"    
+  doi: "10.1109/TIM.2021.3073707"
+  journal: "IEEE Transactions on Instrumentation and Measurement "
+  month: 4
+  start: 1 # First page number
+  end: 13 # Last page number
+  volume: 70
+  year: 2021
+  publisher:
+    name: Institute of Electrical and Electronics Engineers ({IEEE})
+  url: https://doi.org/10.1109/TIM.2021.3073707
